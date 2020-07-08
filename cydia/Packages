@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: browsky300 <maxim.bondar@outlook.com>
 Depends: com.spark.snowboard
-Filename: C:/Users/Maxim/Documents/GitHub/browsky300.github.io/cydia/debs/Windows10Theme.deb
+Filename: debs/Windows10Theme.deb
 Size: 28624
 MD5sum: bbe5f33db2d365f889dbdc4023196631
 SHA1: 1496d2a1ec97d1c164829988bf426ce3965c9aaf
