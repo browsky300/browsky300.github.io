@@ -3,14 +3,14 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: browsky300 <maxim.bondar@outlook.com>
 Depends: com.spark.snowboard
-Filename: C:/Users/Maxim/Desktop/browsky300.github.io/cydia/debs/Windows10Theme.deb
-Size: 28662
-MD5sum: 4f1d717eabbfaaa2b75280555bd4b369
-SHA1: 7f9f6b2d600c5574e726d9e229445db7fd374528
-SHA256: 1f29e8de188e9189b0e0ef04ba8b0fa2a690b6fa4aadace2c73d97a910bbdcd9
+Filename: C:/Users/Maxim/Documents/GitHub/browsky300.github.io/cydia/debs/Windows10Theme.deb
+Size: 28668
+MD5sum: 044b1e1050fdb81a75dd6039d064d289
+SHA1: 72dfa708d93a96f8780d4062e53128cd8dae4a8f
+SHA256: c48e57d7b4857575e3285ca9dd1e36d078d87e62da6a3ed60ffb66deb5c7dd2e
 Section: Themes
 Description: A Windows 10 theme
 Author: browsky300 <maxim.bondar@outlook.com>
-Depiction: https://browsky300.github.io/repo/depictions/?p=com.browsky300.windows10theme
+Depiction: https://browsky300.github.io/repo/depictions/index.html?p=com.browsky300.windows10theme
 Name: Windows 10 Theme
 
