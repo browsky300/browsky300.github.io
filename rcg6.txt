@@ -1,0 +1,77 @@
+G major scale
+E major scale
+B major scale
+Db major scale
+G minor scale
+E minor scale
+B minor scale
+C# minor scale
+E major formula pattern
+E minor formula pattern
+Chromatic scale starting on E
+Chromatic scale starting on Db
+
+G major broken triad
+E major broken triad
+B major broken triad
+Db major broken triad
+G minor broken triad
+E minor broken triad
+B minor broken triad
+C# minor broken triad
+G major solid triad
+E major solid triad
+B major solid triad
+Db major solid triad
+G minor solid triad
+E minor solid triad
+B minor solid triad
+C# minor solid triad
+G major V7 broken chord
+E major V7 broken chord
+B major V7 broken chord
+Db major V7 broken chord
+G minor V7 broken chord
+E minor V7 broken chord
+B minor V7 broken chord
+C# minor V7 broken chord
+G major V7 solid chord
+E major V7 solid chord
+B major V7 solid chord
+Db major V7 solid chord
+G minor V7 solid chord
+E minor V7 solid chord
+B minor V7 solid chord
+C# minor V7 solid chord
+G major o7 broken chord
+E major o7 broken chord
+B major o7 broken chord
+Db major o7 broken chord
+G minor o7 broken chord
+E minor o7 broken chord
+B minor o7 broken chord
+C# minor o7 broken chord
+G major o7 solid chord
+E major o7 solid chord
+B major o7 solid chord
+Db major o7 solid chord
+G minor o7 solid chord
+E minor o7 solid chord
+B minor o7 solid chord
+C# minor o7 solid chord
+
+
+
+
+
+
+
+
+G major
+E major
+B major
+Db major
+G minor
+E minor
+B minor
+C# minor
