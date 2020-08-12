@@ -10,23 +10,22 @@ E major formula pattern
 E minor formula pattern
 Chromatic scale starting on E
 Chromatic scale starting on Db
-
-G major broken triad
-E major broken triad
-B major broken triad
-Db major broken triad
-G minor broken triad
-E minor broken triad
-B minor broken triad
-C# minor broken triad
-G major solid triad
-E major solid triad
-B major solid triad
-Db major solid triad
-G minor solid triad
-E minor solid triad
-B minor solid triad
-C# minor solid triad
+G major broken chord
+E major broken chord
+B major broken chord
+Db major broken chord
+G minor broken chord
+E minor broken chord
+B minor broken chord
+C# minor broken chord
+G major solid chord
+E major solid chord
+B major solid chord
+Db major solid chord
+G minor solid chord
+E minor solid chord
+B minor solid chord
+C# minor solid chord
 G major V7 broken chord
 E major V7 broken chord
 B major V7 broken chord
@@ -59,19 +58,27 @@ G minor o7 solid chord
 E minor o7 solid chord
 B minor o7 solid chord
 C# minor o7 solid chord
-
-
-
-
-
-
-
-
-G major
-E major
-B major
-Db major
-G minor
-E minor
-B minor
-C# minor
+G major tonic arpeggio
+E major tonic arpeggio
+B major tonic arpeggio
+Db major tonic arpeggio
+G minor tonic arpeggio
+E minor tonic arpeggio
+B minor tonic arpeggio
+C# minor tonic arpeggio
+G major V7 arpeggio
+E major V7 arpeggio
+B major V7 arpeggio
+Db major V7 arpeggio
+G minor V7 arpeggio
+E minor V7 arpeggio
+B minor V7 arpeggio
+C# minor V7 arpeggio
+G major o7 arpeggio
+E major o7 arpeggio
+B major o7 arpeggio
+Db major o7 arpeggio
+G minor o7 arpeggio
+E minor o7 arpeggio
+B minor o7 arpeggio
+C# minor o7 arpeggio
