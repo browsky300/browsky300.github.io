@@ -1,0 +1,29 @@
+Package: io.github.browsky300.sebstheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: browsky300 <maxim.bondar@outlook.com>
+Depends: com.spark.snowboard
+Filename: /debs/SebsTheme.deb
+Size: 1175954
+MD5sum: 93330e478624f5af0a758042d08266b0
+SHA1: ab563eacb7b519c3ae5f250c61abdb5a7986ab4e
+SHA256: 9f4a6798ead960783d521479374e2bdf86a2f5c423c248360607cd76a59d18ae
+Section: Themes
+Description: A theme made by Seb.
+Author: yourmom26 <sebastiansatchu@gmail.com>
+Name: Seb's Theme
+
+Package: io.github.browsky300.windows10theme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: browsky300 <maxim.bondar@outlook.com>
+Depends: com.spark.snowboard
+Filename: /debs/Windows10Theme.deb
+Size: 28624
+MD5sum: bbe5f33db2d365f889dbdc4023196631
+SHA1: 1496d2a1ec97d1c164829988bf426ce3965c9aaf
+SHA256: 01cacf403edd7730baf4a99a1cfc89e62f9e6094da653da9cf0668c0044a23e5
+Section: Themes
+Description: A Windows 10 theme
+Author: browsky300 <maxim.bondar@outlook.com>
+Name: Windows 10 Theme
